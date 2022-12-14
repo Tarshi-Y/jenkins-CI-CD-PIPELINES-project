@@ -1,1 +1,1 @@
-# jenkins-pipeline-cicd-project
+# jenkins-CI-CD-pipelines-project
